@@ -14,7 +14,7 @@ import {Home , Profile, Browse, Details, Streams} from './components/Pages/index
 const App = () => {
     return(
         <>
-            <Router basename='cyborg-react'>
+            <Router basename='/cyborg-react'>
                 <Header />
                 <Container>
                     <Routes>

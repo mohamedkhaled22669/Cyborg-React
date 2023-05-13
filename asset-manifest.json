@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.28c1d614.css",
-    "main.js": "/static/js/main.ef1760a8.js",
-    "static/media/banner-bg.jpg": "/static/media/banner-bg.f41cb78948354a14694e.jpg",
-    "static/media/popular-05.jpg": "/static/media/popular-05.fb754b91636cbce130d6.jpg",
-    "static/media/popular-06.jpg": "/static/media/popular-06.193c1358cf48df9af86f.jpg",
-    "static/media/popular-08.jpg": "/static/media/popular-08.126dd98013f11709e815.jpg",
-    "static/media/popular-02.jpg": "/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
-    "static/media/popular-01.jpg": "/static/media/popular-01.d591ee7091c3349e3472.jpg",
-    "static/media/popular-04.jpg": "/static/media/popular-04.b68fb4322ccb2976873d.jpg",
-    "static/media/popular-07.jpg": "/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
-    "static/media/popular-03.jpg": "/static/media/popular-03.1c8955f99df2b3b94391.jpg",
-    "index.html": "/index.html",
-    "main.28c1d614.css.map": "/static/css/main.28c1d614.css.map",
-    "main.ef1760a8.js.map": "/static/js/main.ef1760a8.js.map"
+    "main.css": "/cyborg-react/static/css/main.28c181e9.css",
+    "main.js": "/cyborg-react/static/js/main.d735d67f.js",
+    "static/media/banner-bg.jpg": "/cyborg-react/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/popular-05.jpg": "/cyborg-react/static/media/popular-05.fb754b91636cbce130d6.jpg",
+    "static/media/popular-06.jpg": "/cyborg-react/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/popular-08.jpg": "/cyborg-react/static/media/popular-08.126dd98013f11709e815.jpg",
+    "static/media/popular-02.jpg": "/cyborg-react/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/cyborg-react/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "/cyborg-react/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/popular-07.jpg": "/cyborg-react/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
+    "static/media/popular-03.jpg": "/cyborg-react/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/cyborg-react/index.html",
+    "main.28c181e9.css.map": "/cyborg-react/static/css/main.28c181e9.css.map",
+    "main.d735d67f.js.map": "/cyborg-react/static/js/main.d735d67f.js.map"
   },
   "entrypoints": [
-    "static/css/main.28c1d614.css",
-    "static/js/main.ef1760a8.js"
+    "static/css/main.28c181e9.css",
+    "static/js/main.d735d67f.js"
   ]
 }
